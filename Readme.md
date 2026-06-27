@@ -16,4 +16,5 @@ This repository contains my solutions to coding problems solved as part of a 30-
 - [x] Day 10 - Poisonous Plants
 - [x] Day 11 - Extra Long Factorials
 - [x] Day 12 - Find the Median
+- [x] Day 13 - Electronics Shop
 ...

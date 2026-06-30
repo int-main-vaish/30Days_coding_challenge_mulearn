@@ -19,4 +19,5 @@ This repository contains my solutions to coding problems solved as part of a 30-
 - [x] Day 13 - Electronics Shop
 - [x] Day 14 - Day of the Programmer
 - [x] Day 15 - Sherlock and Anagrams
+- [x] Day 16 - Sherlock and Squares
 ...

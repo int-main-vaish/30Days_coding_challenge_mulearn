@@ -21,4 +21,5 @@ This repository contains my solutions to coding problems solved as part of a 30-
 - [x] Day 15 - Sherlock and Anagrams
 - [x] Day 16 - Sherlock and Squares
 - [x] Day 17 - Strong Password
+- [x] Day 18 Queue using Two Stacks
 ...

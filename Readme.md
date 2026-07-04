@@ -23,4 +23,5 @@ This repository contains my solutions to coding problems solved as part of a 30-
 - [x] Day 17 - Strong Password
 - [x] Day 18 - Queue using Two Stacks
 - [x] Day 19 - Divisible Sum Pairs
+- [x] Day 20 - Pairs
 ...

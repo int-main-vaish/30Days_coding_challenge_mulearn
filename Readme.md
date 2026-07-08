@@ -28,5 +28,9 @@ This repository contains my solutions to coding problems solved as part of a 30-
 - [x] Day 22 - Plus Minus
 - [x] Day 23 - Sales by Match
 - [x] Day 24 - Picking Numbers
-
-...
+- [ ] Day 25 - 
+- [ ] Day 26 - 
+- [ ] Day 27 - 
+- [ ] Day 28 - 
+- [ ] Day 29 - 
+- [ ] Day 30 - 

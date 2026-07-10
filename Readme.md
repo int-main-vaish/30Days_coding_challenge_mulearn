@@ -29,7 +29,7 @@ This repository contains my solutions to coding problems solved as part of a 30-
 - [x] Day 23 - Sales by Match
 - [x] Day 24 - Picking Numbers
 - [x] Day 25 - Non Divisible Subset
-- [ ] Day 26 - 
+- [x] Day 26 - Jesse and Cookies
 - [ ] Day 27 - 
 - [ ] Day 28 - 
 - [ ] Day 29 - 

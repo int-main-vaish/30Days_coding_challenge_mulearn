@@ -30,7 +30,7 @@ This repository contains my solutions to coding problems solved as part of a 30-
 - [x] Day 24 - Picking Numbers
 - [x] Day 25 - Non Divisible Subset
 - [x] Day 26 - Jesse and Cookies
-- [ ] Day 27 - 
+- [x] Day 27 - Tree: Level Order Traversal 
 - [ ] Day 28 - 
 - [ ] Day 29 - 
 - [ ] Day 30 - 

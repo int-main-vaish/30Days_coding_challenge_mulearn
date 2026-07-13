@@ -32,5 +32,5 @@ This repository contains my solutions to coding problems solved as part of a 30-
 - [x] Day 26 - Jesse and Cookies
 - [x] Day 27 - Tree: Level Order Traversal 
 - [x] Day 28 - Breaking the Records
-- [ ] Day 29 - 
+- [x] Day 29 - Is This a Binary Search Tree
 - [ ] Day 30 - 

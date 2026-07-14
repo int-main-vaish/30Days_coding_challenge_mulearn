@@ -1,8 +1,21 @@
-# 30 Days Coding Challenge
+# 🚀 30 Days Coding Challenge
 
-This repository contains my solutions to coding problems solved as part of a 30-day coding challenge.
+Welcome to my **30 Days Coding Challenge** repository!
 
-## Progress
+Over the course of 30 days, I solved one coding problem each day using **Python** to improve my problem-solving skills.
+
+---
+
+## 📈 Challenge Status
+
+- ✅ **30/30 Days Completed**
+- 💻 **Language:** Python
+- 🎯 **Platform:** HackerRank
+- 📅 **Duration:** 30 Days
+
+---
+
+## 📚 Problems Solved
 
 - [x] Day 1 - Caesar Cipher
 - [x] Day 2 - Mini Max Sum
@@ -34,3 +47,11 @@ This repository contains my solutions to coding problems solved as part of a 30-
 - [x] Day 28 - Breaking the Records
 - [x] Day 29 - Is This a Binary Search Tree
 - [x] Day 30 - Components in a Graph
+
+---
+
+## 🌟 Outcome
+
+Successfully completed the **30 Days Coding Challenge**, solving one coding problem every day while building consistency, improving algorithmic thinking, and strengthening my programming skills.
+
+---

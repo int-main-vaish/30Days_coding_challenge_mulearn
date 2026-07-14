@@ -33,4 +33,4 @@ This repository contains my solutions to coding problems solved as part of a 30-
 - [x] Day 27 - Tree: Level Order Traversal 
 - [x] Day 28 - Breaking the Records
 - [x] Day 29 - Is This a Binary Search Tree
-- [ ] Day 30 - 
+- [x] Day 30 - Components in a Graph
